@@ -8,4 +8,4 @@ Y algunos conceptos adicionales como las pruebas de cajas de cristal y caja negr
 **El archivo to-do.py es un proyecto propio realizado como evidencia de lo aprendido a lo largo del curso.**
 
 Si quieres ver los apuntes del curso, con la teoría y los ejercicios ejecutados directamente en una terminal linux, puedes verlos en el siguiente enlace.
-[Apuntes y recursos del curso](http://https://notesandothers.notion.site/Curso-de-introducci-n-al-pensamiento-computacional-con-Python-179c37c26143412793cc752c4b3eed8e "Apuntes y recursos del curso")
+[Apuntes y recursos del curso](https://notesandothers.notion.site/Curso-de-introducci-n-al-pensamiento-computacional-con-Python-179c37c26143412793cc752c4b3eed8e)
